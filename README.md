@@ -34,7 +34,7 @@
 |Leader, - |-|-|-|
 |:----:|:---:|:-----:|:---:|  
 |-|-|-|-|
-|**[Gyucheol Lee <br> 이규철](https://github.com/9cheol2)**|**[Bumchan Park <br> 박범찬](https://github.com/bumcoding)**|**[Chanwoong kim <br> 김찬웅](https://github.com/kichwo)**|**[Hyoungill Kim <br> 김형일](https://github.com/nagu78)**|
+|**[Gyucheol Lee <br> 이규철](https://github.com/9cheol2)**|**[Bumchan Park <br> 박범찬](https://github.com/bumcoding)**|**[Chanwoong kim <br> 김찬웅](https://github.com/chanwoong0503)**|**[Hyoungill Kim <br> 김형일](https://github.com/nagu78)**|
 
 ## Source
   
