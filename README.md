@@ -4,13 +4,15 @@
 
 이번에 공개하는 데이터는 학습 데이터와 테스트 데이터로 나뉘어 있습니다. 학습 데이터는 '협박', '갈취', '직장 내 괴롭힘', '기타 괴롭힘' 등 4개 클래스가 약 1천 개 정도씩의 대화로 이루어져 있고, 테스트 데이터는 '협박', '갈취', '직장 내 괴롭힘', '기타 괴롭힘', '일반 대화' 등 5개 클래스가 100개씩의 대화로 이루어져 있습니다. 학습 데이터 중 빠져 있는 '일반 대화'는 [AI Hub](https://aihub.or.kr/)의 여러 대화 데이터셋에서 내려받아 학습에 활용할 수 있습니다. 어떤 일반대화 데이터를 모으고 학습에 활용하느냐 하는 것도 중요한 학습 전략이 될 수 있습니다.
 
+- **알고리즘**
+  
 | 분야        | 사용된 모델                   |
 | ----------- | ----------------------------- |
-| 딥러닝       | LSTM,  Bidirectional LSTM, Simple RNN, GRU|
-| 트랜스포머   | BERT, GPT |
+| Deep Learning | LSTM,  Bidirectional LSTM, Simple RNN, GRU|
+| Transformer   | BERT, GPT |
 
-## Train 데이터 head 구성
 
+- **학습 데이터 head**
 <img width="547" height="729" alt="image" src="https://github.com/user-attachments/assets/55453207-015e-4a27-a463-4705a50ceab7" />
 
 
